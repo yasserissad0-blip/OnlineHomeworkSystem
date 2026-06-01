@@ -1,0 +1,26 @@
+.exerciseBox{
+    display: flex;
+    outline: solid 3px ; 
+    border-radius: 10px; 
+    width: fit-content;
+    margin: 25px 20px;
+    padding: 25px 20px;
+}
+
+.exerciseImage{
+    width: 300px; 
+    height: auto;
+}
+.exerciseSubmitButton{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+
+}
+.navigationBox{
+    margin: 0px 20px;
+}
+.navigationButton{
+    color: azure;
+    background-color: blueviolet;
+}
